@@ -1,5 +1,7 @@
 # beamer-AMSCesena-template
 
+![AMSCesena Beamer template logo](logo/amscesena-template-full.svg)
+
 > A ready-to-use presentation skeleton for the
 > [AMSCesena Beamer style](https://github.com/andreaomicini/beamer-AMSCesena)
 

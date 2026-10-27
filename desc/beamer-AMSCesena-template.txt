@@ -1,0 +1,1 @@
+A ready-to-use presentation skeleton for the AMSCesena Beamer style
